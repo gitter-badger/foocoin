@@ -1,5 +1,7 @@
 # foocoin
 
+[![Join the chat at https://gitter.im/FooCoinChat/Lobby](https://badges.gitter.im/FooCoinChat/Lobby.svg)](https://gitter.im/FooCoinChat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### What is FooCoin?
 
 FooCoin is a cryptocurrency that aims to be completely different from all the other cryptocurrencies and not be generic in any way. It uses the CryptoNight algorithm to allow for effective CPU mining, and is based on [CryptoNote](http://github.com/cryptonotefoundation/cryptonote).
